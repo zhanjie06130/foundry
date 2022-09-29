@@ -1,0 +1,9 @@
+reorder_imports = true
+进口颗粒度= “板条箱”
+use_small_heuristics = "最大"
+评论宽度= 100
+wrap_comments = true
+binop_separator = "返回"
+trailing_comma = "垂直"
+trailing_semicolon = false
+use_field_init_shorthand = true
